@@ -4,6 +4,7 @@ Features:
 - Fretboard is a Jack client which outputs midi notes.
 - Pressing a key on the keyboard causes the the corresponding fret in the GUI to display a circle, and the corresponding midi note is emitted.
 - Preset instrument mappings include guitar, bass, cello, and violin.
+- Hold - when the spacebar is held down, notes are held (not turned off when you release the key), and playing a note that's already on toggles it on and off. 
 - Custom mappings are supported - you can change to the base (lowest open string) midi note (60 is middle C) and the offsets (in half-steps) for each string.
 - GPL license.
 
