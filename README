@@ -1,0 +1,14 @@
+Fretboard is a Jack midi client which maps keystrokes to midi notes as though the keyboard were a fretted instrument such as a guitar or bass.
+
+Dependencies:
+QT 4
+Jack
+
+To make and run:
+qmake
+make
+./fretboard
+
+Enjoy!
+
+--Curran Kelleher
